@@ -1,0 +1,4 @@
+APP1_PATH=/app1
+APP2_PATH=/app2
+APP1_URL=http://app2:8001
+APP2_URL=http://app3:8002
